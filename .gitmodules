@@ -1,0 +1,3 @@
+[submodule "examples/alchemical_analysis"]
+	path = examples/alchemical_analysis
+	url = git@github.com:wesbarnett/alchemical-analysis.git
